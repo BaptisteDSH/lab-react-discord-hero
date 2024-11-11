@@ -63,11 +63,8 @@ h5 {
 }
 
 .footer {
-  margin: 0;
-  padding: 0;
-  position: absolute;
-  margin-left: 700px;
-  margin-top: 235px;
-  height: 360px;
+  align-self: flex-end;
+  margin-top: -180px;
+  height: 50%;
   width: auto;
 }
